@@ -1,0 +1,1 @@
+# rails-recipe-mini-project
